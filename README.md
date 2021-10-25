@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hi there 👋 Welcome!!
 **Hello! My name is Noah! I am a Owner of Ascension RP.**
 
-Here are some ideas to get you started:
+## 📚 Information About Me!
 
 - 🔭 I’m currently working on Ascension RP
 - 🌱 I’m currently learning Information Technology
 - 📫 How to reach me: Discord: NoahC#4062
 - ⚡ Fun fact: I like cruising
+
+## 🐦 Social Media
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/brysi7)
 [![LinkedIn Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://discord.gg/mK6kBySSWy)
+
+## 📋 Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NoahC4062&count_private=true&theme=tokyonight&showicons=true)]()
 
@@ -38,17 +42,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
